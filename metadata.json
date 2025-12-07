@@ -1,0 +1,5 @@
+{
+  "name": "FileVault",
+  "description": "A secure, zero-knowledge file encryption application demonstrating client-side hybrid encryption and secure network transport.",
+  "requestFramePermissions": []
+}
